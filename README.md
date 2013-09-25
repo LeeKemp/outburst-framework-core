@@ -8,9 +8,9 @@ By spawning an individual thread for each test in a class the tests are then run
 Outburst Core can be used either via the command line or by using the @RunWith JUnit annotation. Using the annotation allows you to utilize your existing development and build tools such as eclipse, ANT, Maven and Hudson etc.
 
 # Examples
-* Benchmarking (MapTest.class)
-* HTTP Performance Test (HttpTest.class)
-* Faster JUnit Tests (FasterTests.class)
+* Benchmarking [MapTest.class](https://github.com/LeeKemp/outburst-framework-core/blob/master/src/main/java/org/outburstframework/example/MapTest.java)
+* HTTP Performance Test [HttpTest.class](https://github.com/LeeKemp/outburst-framework-core/blob/master/src/main/java/org/outburstframework/example/HttpTest.java)
+* Faster JUnit Tests [FasterTests.class](https://github.com/LeeKemp/outburst-framework-core/blob/master/src/main/java/org/outburstframework/example/FasterTests.java)
 
 # Requires
 * Java 1.5+
